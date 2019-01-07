@@ -1,3 +1,5 @@
+# No longer being worked on.
+
 # Z0F Suite - EARLY DEVELOPMENT
 
 Security suite focused around saving you time. Cheat sheets, quick tasks, and more.
