@@ -1,9 +1,9 @@
-# No longer being worked on.
+# No longer being worked on. I'll probably remake it sometime in the future.
 
 
 
 
-# Z0F Suite - EARLY DEVELOPMENT
+# Z0F Suite
 
 Security suite focused around saving you time. Cheat sheets, quick tasks, and more.
 
