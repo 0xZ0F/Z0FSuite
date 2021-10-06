@@ -1,7 +1,4 @@
-# No longer being worked on. I'll probably remake it sometime in the future.
-
-
-
+# New version soon.
 
 # Z0F Suite
 
